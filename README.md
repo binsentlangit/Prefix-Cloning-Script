@@ -108,7 +108,7 @@ Process Workflow
 # FAQ
 
 **Q: Why clone prefixes instead of creating new ones?**\
-A: Cloning saves hours of configuration by preserving installed dependencies and settings.
+A: Cloning saves time from configuration by preserving installed dependencies and settings.
 
 **Q: Can I use this for different Wine versions?**\
 A: Yes! The base prefix determines the Wine version - create multiple base prefixes for different versions.
