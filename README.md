@@ -50,9 +50,11 @@ This script simplifies the process of cloning a pre-configured Wine prefix to ne
 
 **Edit these variables at the top of the script**
 
-BASEPREFIX="$HOME/Games/BasePrefix"       # Path to your prepared base prefix
+Path to your prepared base prefix:
+BASEPREFIX="$HOME/Games/BasePrefix"
 
-INTERNAL_PREFIX_ROOT="$HOME/Games"        # Default location for new prefixes
+Default location for new prefixes:
+INTERNAL_PREFIX_ROOT="$HOME/Games"
 
 **Usage**
 Make the script executable:
