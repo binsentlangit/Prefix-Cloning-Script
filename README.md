@@ -1,6 +1,6 @@
 # Wine Prefix Cloning Utility - README
 
-https://img.shields.io/badge/License-MIT-yellow.svg
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This script simplifies the process of cloning a pre-configured Wine prefix to new locations (including external drives) and optionally installing games/DLCs into the new prefix.
 
